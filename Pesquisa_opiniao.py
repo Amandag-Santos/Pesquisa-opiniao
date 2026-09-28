@@ -6,7 +6,7 @@ qtd_ruim = 0
 
 print(" Olá, somos a empresa TudoWeb e gostaríamos de saber sua opinião sobre o nosso atendimento.")
 
-for i in range( 1 , 11 ):
+for i in range( 1 , 51 ):
     nome_cliente = input(" \n Digite seu nome: ")
     idade_cliente = int(input(" Digite sua idade: "))
     print(" Digite uma nota de 1 a 3 para avaliar nosso atendimento: ")
